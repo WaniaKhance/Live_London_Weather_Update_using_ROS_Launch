@@ -1,0 +1,5 @@
+<launch>
+  <node name = "Weather" pkg = "my_robot_tutorial" type = "weather_pub.py" />
+  <node name = "Temperature" pkg = "my_robot_tutorial" type = "weather_sub.py" />
+  <node name = "Status" pkg = "my_robot_tutorial" type = "weather_sub.py" />
+</launch>

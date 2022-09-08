@@ -29,6 +29,6 @@ We have developed this system in ROS using publisher, subscriber and Launch file
   
 We can directly execute our launch file without running roscore in the background and it automatically starts publishing data on their respective topics as shown below: (roslaunch my_robot_tutorial weather.launch)
 
-![alt text](https://github.com/WaniaKhance/Live_Weather_Update_Using_OpenWeatherAPI/blob/main/Picture3.png?raw=true)
+![alt text](https://github.com/WaniaKhance/London_Live_Weather_Update_using_ROS_Launch/blob/main/Picture3.png?raw=true)
 
 
